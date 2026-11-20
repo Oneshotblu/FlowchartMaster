@@ -90,12 +90,12 @@ Send a voluntary donation to:
 
 Scan the QR code below:
 
-https://github.com/Oneshotblu/FlowchartMaster/raw/main/assets/satispay-qr.png
+![Satispay donation QR code](assets/satispay-qr.png)
 
 PayPal
 
 Prefer PayPal? Scan the QR code below to make a voluntary contribution:
 
-https://github.com/Oneshotblu/FlowchartMaster/raw/main/assets/paypal-qr.png
+![PayPal donation QR code](assets/paypal-qr.png)
 
 Thanks for your support!
