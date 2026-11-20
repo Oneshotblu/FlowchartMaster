@@ -1,6 +1,6 @@
 # Flowchart Master
 
-(formerly ORGANIGRAM) – offline Windows desktop application to create, edit, reconstruct, manage and export flowcharts, organisational charts and logical block diagrams.
+Offline Windows desktop application to create, edit, reconstruct, manage and export flowcharts, organisational charts and logical block diagrams.
 
 - **User guide (EN/IT):** [USER_GUIDE.md](USER_GUIDE.md)
 - **Behaviour numbers:** [MECHANICS.md](MECHANICS.md) / `mechanics.json`
@@ -90,12 +90,12 @@ Send a voluntary donation to:
 
 Scan the QR code below:
 
-
+https://github.com/Oneshotblu/FlowchartMaster/raw/main/assets/satispay-qr.png
 
 PayPal
 
 Prefer PayPal? Scan the QR code below to make a voluntary contribution:
 
-
+https://github.com/Oneshotblu/FlowchartMaster/raw/main/assets/paypal-qr.png
 
 Thanks for your support!
