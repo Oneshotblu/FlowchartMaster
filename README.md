@@ -72,3 +72,30 @@ FlowchartMaster --setup-screenshot out.png
 | `vision.rs`, `recog.rs`, `ocr.rs`, `wizard.rs` | picture pre-processing, recognition, OCR, import wizard |
 | `export_svg.rs`, `export_pdf.rs`, `interop.rs` | SVG/PNG/JPG, PDF/print, PPTX, CSV, SVG import |
 | `samples.rs`, `i18n.rs`, `settings.rs`, `selftest.rs` | templates, Italian/English, settings & recovery, automated checks |
+
+
+Support the Project 🍺
+
+NinjaSight Pro is developed independently and shared without commercial ambitions.
+
+If you find it useful and would like to support its development, you can spontaneously offer me a beer!
+
+There is absolutely no obligation. Every contribution, regardless of its size, is appreciated.
+
+Satispay
+
+Send a voluntary donation to:
+
+@filippopanza
+
+Scan the QR code below:
+
+
+
+PayPal
+
+Prefer PayPal? Scan the QR code below to make a voluntary contribution:
+
+
+
+Thanks for your support!
